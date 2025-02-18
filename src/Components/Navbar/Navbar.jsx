@@ -33,7 +33,7 @@ const Navbar = () => {
             <StyledButton href='#home'>Home</StyledButton>
             <StyledButton href='#projects'>Projects</StyledButton>
             <Tooltip title='Click to download my resume'>
-                <Button variant='text' href='../src/assets/resume.pdf' target='_blank' sx={{
+                <Button variant='text' href='/resume.pdf' target='_blank' sx={{
                     color: 'white',
                     fontSize: '20px',
                     paddingLeft: '30px',

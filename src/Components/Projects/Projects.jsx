@@ -46,7 +46,7 @@ const Projects = () => {
             <CardMedia
                 component="img"
                 sx={{ maxWidth: 600 }}
-                image="./src/assets/Christmas-parade.png"
+                image="/Christmas-parade.png"
                 alt="Christchurch Christmas Parade Website"
             />
         </Card>
@@ -86,7 +86,7 @@ const Projects = () => {
             <CardMedia
                 component="img"
                 sx={{ maxWidth: 600, objectFit:'contain'}}
-                image="./src/assets/petition.png"
+                image="/petition.png"
                 alt="Petition Website"
             />
         </Card>
