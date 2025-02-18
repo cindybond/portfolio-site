@@ -62,7 +62,7 @@ const Navbar = () => {
                 </a>
             </ListItem>
             <ListItem button onClick={() => setDrawerOpen(false)}>
-                <a href="../src/assets/resume.pdf" target='_blank' style={{ textDecoration: 'none', color: 'inherit' }}>
+                <a href="/resume.pdf" target='_blank' style={{ textDecoration: 'none', color: 'inherit' }}>
                     <ListItemText primary="Resume" />
                 </a>
             </ListItem>
