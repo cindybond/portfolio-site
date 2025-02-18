@@ -11,7 +11,7 @@ const Hero = () => {
         alignItems: 'center',
         flexDirection: 'column'
     }}>
-        <Avatar src='src\assets\my-photo.jpg' alt='My Photo' sx = {{ 
+        <Avatar src='src/assets/my-photo.jpg' alt='My Photo' sx = {{ 
             width: '300px', 
             height:'300px',
             marginTop: '100px',
